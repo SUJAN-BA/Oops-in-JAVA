@@ -21,14 +21,3 @@ class sub implements parent{
 
 
 
-
-public class default2 {
-    public static void main(String[] args){
-        sub obj=new sub();
-        obj.name();
-    
-        //obj.player();//NOT ALLOWED
-
-    }
-}
-
